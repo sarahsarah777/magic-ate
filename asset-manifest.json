@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magic-ate/static/css/main.404f5e2c.chunk.css",
-    "main.js": "/magic-ate/static/js/main.866a0c81.chunk.js",
-    "main.js.map": "/magic-ate/static/js/main.866a0c81.chunk.js.map",
+    "main.js": "/magic-ate/static/js/main.da4f16b1.chunk.js",
+    "main.js.map": "/magic-ate/static/js/main.da4f16b1.chunk.js.map",
     "runtime-main.js": "/magic-ate/static/js/runtime-main.567776b5.js",
     "runtime-main.js.map": "/magic-ate/static/js/runtime-main.567776b5.js.map",
     "static/js/2.b71fb209.chunk.js": "/magic-ate/static/js/2.b71fb209.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.567776b5.js",
     "static/js/2.b71fb209.chunk.js",
     "static/css/main.404f5e2c.chunk.css",
-    "static/js/main.866a0c81.chunk.js"
+    "static/js/main.da4f16b1.chunk.js"
   ]
 }
