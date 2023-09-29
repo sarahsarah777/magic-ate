@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "aAreaKilometer50";
+  src: local("aAreaKilometer50"),
+   url("./fonts/aAreaKilometer50.ttf") format("truetype");
+  font-weight: bold;
+  }
