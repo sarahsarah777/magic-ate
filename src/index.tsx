@@ -5,6 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './fonts/aAreaKilometer50.ttf';
 
+const root = ReactDOM.createRoot(
+  document.getElementById('root') as HTMLElement
+);
 ReactDOM.render(
   <React.StrictMode>
     <App />

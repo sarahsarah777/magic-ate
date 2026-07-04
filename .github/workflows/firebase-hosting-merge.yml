@@ -16,6 +16,8 @@ jobs:
       - run: npm ci
       
       - run: npm run build
+        env:
+          PUBLIC_URL: .
       
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
